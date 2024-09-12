@@ -10,7 +10,7 @@ This is a Flask web application that predicts wildfire probability based on seve
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Connect with Me](#Connect-with-Me)
+- [Connect with Me](#connect-with-me)
 
 ## Overview
 
