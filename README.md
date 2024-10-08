@@ -2,21 +2,32 @@
 
 Welcome to my Data Science Learning Journey! This repository is a daily log of the topics I cover and projects I work on as I progress through my data science studies. The goal of this journey is to build a strong foundation in data science concepts, tools, and techniques, while continuously improving my skills through hands-on projects.
 
-<!--
+
 ## Progress Overview
 
 Below is a chronological overview of my learning journey. Each topic is linked to detailed logs or related project work.
 
 | Day | Topic Covered |
 |-----|---------------|
-| 1   | Introduction to Data Science |
-| 2   | Python for Data Analysis |
-| 3   | Data Visualization with Matplotlib and Seaborn |
-| 4   | Statistics Basics |
-| 5   | Probability Theory |
+| 030 | Web Scraping with BeautifulSoup |
+| 039 | End-to-End ML Project with Linear Regression |
+| 040 | Logistic Regression and Performance Metrics |
+| 041 | Logistic Regression, OVR, and Hyperparameter Tuning |
+| 042 | Randomized Search CV & Logistic Regression OVR |
+| 052 | Decision Tree Classifier & Regressor – Introduction, Entropy, and Gini Impurity |
+| 053 | Information Gain, Entropy vs Gini Impurity, and Decision Tree Splitting for Numerical Features |
+| 054 |
+| 055 |
+| 056 |
+| 057 |
+| 068 |
+| 069 |
+| 070 |
+| 083 | CO2 Emissions Prediction Project |
+| 084 | 
 | ... | ... |
 
--->
+
 
 ## Learning Resources
 
@@ -28,8 +39,9 @@ Throughout this journey, I am using a variety of resources, including:
   - Machine Learning by Andrew Ng
 
 - **Documentation**: 
-  - [Pandas Documentation](https://pandas.pydata.org/docs/)
-  - [NumPy Documentation](https://numpy.org/doc/)
+  - [Pandas ](https://pandas.pydata.org/docs/)
+  - [NumPy ](https://numpy.org/doc/)
+  - [Matplotlib ](https://matplotlib.org/stable/index.html)
   
 <!-- ## Projects
 
@@ -60,6 +72,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-u/
 ---
 
 _This README will be continuously updated as I progress through my data science journey._
-
 
 
