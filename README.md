@@ -2,32 +2,32 @@
 
 Welcome to my Data Science Learning Journey! This repository is a daily log of the topics I cover and projects I work on as I progress through my data science studies. The goal of this journey is to build a strong foundation in data science concepts, tools, and techniques, while continuously improving my skills through hands-on projects.
 
-
+<!--
 ## Progress Overview
 
 Below is a chronological overview of my learning journey. Each topic is linked to detailed logs or related project work.
 
-| Day | Topic Covered |
-|-----|---------------|
-| 030 | Web Scraping with BeautifulSoup |
-| 039 | End-to-End ML Project with Linear Regression |
-| 040 | Logistic Regression and Performance Metrics |
-| 041 | Logistic Regression, OVR, and Hyperparameter Tuning |
-| 042 | Randomized Search CV & Logistic Regression OVR |
-| 052 | Decision Tree Classifier & Regressor – Introduction, Entropy, and Gini Impurity |
-| 053 | Information Gain, Entropy vs Gini Impurity, and Decision Tree Splitting for Numerical Features |
-| 054 |
-| 055 |
-| 056 |
-| 057 |
-| 068 |
-| 069 |
-| 070 |
-| 083 | CO2 Emissions Prediction Project |
-| 084 | 
-| ... | ... |
+| Day | Topic Covered | Type |
+|-----|---------------| -----|
+| 030 | Web Scraping with BeautifulSoup | C |
+| 039 | End-to-End ML Project with Linear Regression | P |
+| 040 | Logistic Regression and Performance Metrics | N |
+| 041 | Logistic Regression, OVR, and Hyperparameter Tuning | C |
+| 042 | Randomized Search CV & Logistic Regression OVR | D |
+| 052 | Decision Tree Classifier & Regressor – Introduction, Entropy, and Gini Impurity | C |
+| 053 | Information Gain, Entropy vs Gini Impurity, and Decision Tree Splitting for Numerical Features | C|
+| 054 ||
+| 055 ||
+| 056 ||
+| 057 ||
+| 068 ||
+| 069 ||
+| 070 ||
+| 083 | CO2 Emissions Prediction Project ||
+| 084 | |
+| ... | ... | ... |
 
-
+-->
 
 ## Learning Resources
 
