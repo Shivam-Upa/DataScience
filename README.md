@@ -16,15 +16,19 @@ Below is a chronological overview of my learning journey. Each topic is linked t
 | 042 | Randomized Search CV & Logistic Regression OVR | D |
 | 052 | Decision Tree Classifier & Regressor – Introduction, Entropy, and Gini Impurity | C |
 | 053 | Information Gain, Entropy vs Gini Impurity, and Decision Tree Splitting for Numerical Features | C|
-| 054 ||
-| 055 ||
-| 056 ||
-| 057 ||
-| 068 ||
-| 069 ||
-| 070 ||
-| 083 | CO2 Emissions Prediction Project ||
-| 084 | |
+| 054 |||
+| 055 |||
+| 056 |||
+| 057 |||
+| 068 |||
+| 069 |||
+| 070 |||
+| 079 |||
+| 081 | Gradient Boosting Regression ||
+| 082 | Gradient Boosting Classification | |
+| 083 | CO2 Emissions Prediction Project | P |
+| 084 | Sklearn Diabetes Dataset | P |
+
 | ... | ... | ... |
 
 -->
